@@ -1,3 +1,4 @@
+width
 pandas
 numpy
 streamlit
